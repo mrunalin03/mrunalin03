@@ -1,6 +1,6 @@
 # Hi 👋, I'm Mrunali
 
-### AI/ML Engineer | Python Developer | MCA Graduate
+### AI/ML Engineer | Machine Learning | NLP | RAG | Generative AI
 
 I'm an aspiring AI/ML Engineer passionate about building intelligent applications using **Machine Learning, NLP, Retrieval-Augmented Generation (RAG), and Generative AI**. I enjoy solving real-world problems through data-driven solutions and continuously expanding my expertise in AI technologies.
 
