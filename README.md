@@ -1,8 +1,8 @@
 # Hi 👋, I'm Mrunali
 
-### AI/ML Engineer | Machine Learning | NLP | RAG | Generative AI
+### AI/ML Engineer | Machine Learning | NLP | RAG | Agentic AI
 
-I'm an aspiring AI/ML Engineer passionate about building intelligent applications using **Machine Learning, NLP, Retrieval-Augmented Generation (RAG), and Generative AI**. I enjoy solving real-world problems through data-driven solutions and continuously expanding my expertise in AI technologies.
+I'm an aspiring AI/ML Engineer passionate about building intelligent applications using **Machine Learning, NLP, Retrieval-Augmented Generation (RAG), and Agentic AI**. I enjoy solving real-world problems through data-driven solutions and continuously expanding my expertise in AI technologies.
 
 ---
 
@@ -33,6 +33,7 @@ I'm an aspiring AI/ML Engineer passionate about building intelligent application
 
 ### AI & Generative AI
 - LangChain
+- LangGraph
 - Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
 - Hugging Face
@@ -47,7 +48,7 @@ I'm an aspiring AI/ML Engineer passionate about building intelligent application
 - GitHub
 - VS Code
 - Jupyter Notebook
-
+- LangSmith
 ---
 
 ## 🌟 Featured Project
