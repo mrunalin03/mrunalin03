@@ -1,81 +1,110 @@
 # Hi 👋, I'm Mrunali
 
-### AI/ML Engineer | Machine Learning | NLP | RAG | Agentic AI
+### AI/ML Engineer | Machine Learning | NLP | Generative AI | RAG | Agentic AI
 
-I'm an aspiring AI/ML Engineer passionate about building intelligent applications using **Machine Learning, NLP, Retrieval-Augmented Generation (RAG), and Agentic AI**. I enjoy solving real-world problems through data-driven solutions and continuously expanding my expertise in AI technologies.
+I'm an aspiring **AI/ML Engineer** passionate about designing intelligent systems that solve real-world problems using **Machine Learning, Natural Language Processing (NLP), Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Agentic AI**.
+
+I enjoy building end-to-end AI applications—from data preprocessing and model development to intelligent automation and interactive AI solutions. My interests include predictive analytics, document intelligence, semantic search, information retrieval, computer vision, and LLM-powered applications.
+
+Currently, I'm expanding my expertise by building practical AI projects that combine classical Machine Learning with modern Generative AI techniques.
 
 ---
 
-## 🚀 Currently Focused On
+## 🚀 Areas of Interest
 
 - 🤖 Machine Learning
 - 🧠 Deep Learning
 - 💬 Natural Language Processing (NLP)
+- 📑 Information Retrieval & Document Intelligence
 - 🔍 Retrieval-Augmented Generation (RAG)
 - 🤖 Large Language Models (LLMs)
-- 📊 Data Analysis
+- 🧩 Agentic AI & AI Workflows
 - 👁️ Computer Vision
+- 📊 Data Analysis & Predictive Modeling
 
 ---
 
 ## 💻 Tech Stack
 
 ### Programming Languages
+
 - Python
 - SQL
 - Java
 
 ### Machine Learning & Data Science
+
 - Scikit-learn
 - Pandas
 - NumPy
 - Matplotlib
 
-### AI & Generative AI
+### Natural Language Processing
+
+- NLTK
+- spaCy
+- TF-IDF
+- CountVectorizer
+- Cosine Similarity
+- Text Preprocessing
+- Tokenization
+- Lemmatization
+- Information Retrieval
+
+### Generative AI
+
 - LangChain
 - LangGraph
+- Hugging Face
 - Retrieval-Augmented Generation (RAG)
 - Prompt Engineering
-- Hugging Face
+- Vector Databases
 
 ### Databases
+
 - Firebase
 - PostgreSQL
 - MongoDB
 
 ### Tools
+
 - Git
 - GitHub
 - VS Code
 - Jupyter Notebook
 - LangSmith
+
 ---
 
-## 🌟 Featured Project
+# 🌟 Featured Project
 
-### 🏆 AI-Driven Transformer Frequency Response Analysis (FRA) Diagnostic System
+## 🏆 AI-Driven Transformer Frequency Response Analysis (FRA) Diagnostic System
 
 **Smart India Hackathon (SIH) Project**
 
-An AI-powered transformer diagnostic system that combines **Machine Learning** with **Retrieval-Augmented Generation (RAG)** to analyze Frequency Response Analysis (FRA) data, assist in transformer fault diagnosis, and generate intelligent diagnostic reports.
+An AI-powered transformer diagnostic system that combines **Machine Learning** and **Retrieval-Augmented Generation (RAG)** to analyze Frequency Response Analysis (FRA) signatures, assist in transformer fault diagnosis, retrieve relevant technical knowledge, and generate intelligent diagnostic reports.
 
-**Key Features**
-- ⚡ AI-powered transformer fault diagnosis
+### Key Features
+
+- ⚡ Transformer fault diagnosis using Machine Learning
 - 📈 Frequency Response Analysis (FRA)
-- 🤖 Machine Learning prediction pipeline
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 📄 Automated diagnostic report generation
+- 🔍 RAG-based technical knowledge retrieval
+- 📄 Automated AI-generated diagnostic reports
+- 🤖 Intelligent decision support system
 - 🖥️ Interactive Python desktop application
 - 🔥 Firebase integration
 
-**Tech Stack:** Python • Scikit-learn • RAG • Firebase • Tkinter • Pandas • NumPy
+**Tech Stack**
+
+Python • Scikit-learn • Pandas • NumPy • RAG • Firebase • Tkinter
 
 ---
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
 
 - Advanced Machine Learning
 - Deep Learning
+- NLP Applications
 - LLM Fine-Tuning
 - AI Agents
 - MLOps
@@ -84,9 +113,12 @@ An AI-powered transformer diagnostic system that combines **Machine Learning** w
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: **www.linkedin.com/in/mrunali-navalkar-b98989317**
-- 📧 Email: **mrunalin03@gmail.com**
+💼 **LinkedIn**  
+www.linkedin.com/in/mrunali-navalkar-b98989317
+
+📧 **Email**  
+mrunalin03@gmail.com
 
 ---
 
-⭐ *More AI/ML projects coming soon!*
+⭐ **Building AI solutions one project at a time. More Machine Learning, NLP, Computer Vision, and Generative AI projects coming soon!**
