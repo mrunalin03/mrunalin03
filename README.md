@@ -19,7 +19,6 @@ Currently, I'm expanding my expertise by building practical AI projects that com
 - 🔍 Retrieval-Augmented Generation (RAG)
 - 🤖 Large Language Models (LLMs)
 - 🧩 Agentic AI & AI Workflows
-- 👁️ Computer Vision
 - 📊 Data Analysis & Predictive Modeling
 
 ---
